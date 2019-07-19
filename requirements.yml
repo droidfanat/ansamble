@@ -1,0 +1,7 @@
+- src: diodonfrost.ssh_hardening
+- src: geerlingguy.docker
+- src: jasonheecs.ubuntu-python-raw
+- src: viasite-ansible.zsh
+- src: weareinteractive.git
+- src: weareinteractive.sudo
+- src: weareinteractive.users_oh_my_zsh
